@@ -1,4 +1,3 @@
 # GloadSIM
 A Graph Based Cloud Simulator
-Amin Barazandeh
-
+Gload Simulator is a Graph Based Cloud Simulator which design to..
